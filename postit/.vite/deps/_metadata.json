@@ -1,0 +1,43 @@
+{
+  "hash": "9794df18",
+  "configHash": "136ec6ce",
+  "lockfileHash": "77793b0b",
+  "browserHash": "518bf468",
+  "optimized": {
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "05598b5a",
+      "needsInterop": false
+    },
+    "pinia": {
+      "src": "../../node_modules/pinia/dist/pinia.mjs",
+      "file": "pinia.js",
+      "fileHash": "0c218f38",
+      "needsInterop": false
+    },
+    "pinia-plugin-persistedstate": {
+      "src": "../../../node_modules/pinia-plugin-persistedstate/dist/index.js",
+      "file": "pinia-plugin-persistedstate.js",
+      "fileHash": "bf7f7720",
+      "needsInterop": false
+    },
+    "vuejs-paginate-next": {
+      "src": "../../node_modules/vuejs-paginate-next/dist/vuejs-paginate-next.es.js",
+      "file": "vuejs-paginate-next.js",
+      "fileHash": "4eb0eee8",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../node_modules/vue-router/dist/vue-router.mjs",
+      "file": "vue-router.js",
+      "fileHash": "29f222b5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-Y7TKRIWE": {
+      "file": "chunk-Y7TKRIWE.js"
+    }
+  }
+}
